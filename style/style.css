@@ -1,0 +1,30 @@
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+.search-bar input {
+    width: 50%;
+}
+.video-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.list-group-item {
+    cursor: pointer;
+}
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+.videoHeading {
+    font-weight: bold;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    color: coral;
+}
+.videoDescription {
+    color: gray;
+    margin: 20px;
+}
